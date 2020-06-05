@@ -42,7 +42,7 @@
 
 
 ##### CoinSpot
-0.  Check coinspot on <a href=https://www.coinspot.com.au/" target="_blank">Coin Spot</a>
+0.  Check coinspot on <a href="https://www.coinspot.com.au/" target="_blank">Coin Spot</a>
 1.	Make an account & connect a Debit Card.
 2.	Buy 25 USD of BTC.
 3.	Find the Withdraw Bitcoin button, specify an amount and paste your first bitcoin address from Step 1.
@@ -58,7 +58,7 @@
 6.  Send your bitcoin to your outside address ( Atomic Wallet address )
 
 ##### Independent Reserve
-0.  Check Independent Reserve on <a href="https://www.independentreserve.com/" target="_blank">Independent Reserve  
+0.  Check Independent Reserve on <a href="https://www.independentreserve.com/" target="_blank">Independent Reserve</a> 
 1.  Go to <a href="https://www.independentreserve.com" target="_blank">Independent Reserve</a>.
 2.  Make an account & connect your Bank Account
 3.	Paste your first bitcoin address from Step 1
