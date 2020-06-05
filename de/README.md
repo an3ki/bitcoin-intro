@@ -39,18 +39,18 @@
 
 - Only buy a small amount of bitcoin to start (in a later step we will improve your backup redundancy).
 - These recommendations let you buy bitcoin quickly at the cost of reduced privacy.
+- You can use either of these 3 options depending on what you find the easiest to use, they all have different limits and ease of use
 
 
 ##### CoinSpot
-0.  Check coinspot on <a href="https://www.coinspot.com.au/" target="_blank">Coin Spot</a>
+0.  Singn up to <a href="https://www.coinspot.com.au/" target="_blank">Coin Spot</a>
 1.	Make an account & connect a Debit Card.
 2.	Buy 25 USD of BTC.
 3.	Find the Withdraw Bitcoin button, specify an amount and paste your first bitcoin address from Step 1.
 4.	Wait for the funds to appear in Atomic wallet.
 
 ##### Amber
-0.  Check Amber App on <a href="https://apps.apple.com/au/app/amber/id1410639317" target="_blank">Amber App</a>
-1.	Go to <a href="https://www.getamber.io/" target="_blank">Amber</a>.
+1.  Downloan the Amber App onto your iPhone <a href="https://apps.apple.com/au/app/amber/id1410639317" target="_blank">Amber App download</a>
 2.	Sign up using your email.
 3.  Make an account & connect your Bank Account
 4.	Press buy after your account is set up to purchase bitcoin.
@@ -58,7 +58,6 @@
 6.  Send your bitcoin to your outside address ( Atomic Wallet address )
 
 ##### Independent Reserve
-0.  Check Independent Reserve on <a href="https://www.independentreserve.com/" target="_blank">Independent Reserve</a> 
 1.  Go to <a href="https://www.independentreserve.com" target="_blank">Independent Reserve</a>.
 2.  Make an account & connect your Bank Account
 3.	Paste your first bitcoin address from Step 1
@@ -68,10 +67,10 @@ Congrats you now officially hold some BTC. As long as you keep those 24 words sa
 
 ##### Step 3. Extra Safety for Long Term Investment. Buying and using a Hardware Wallet.
 
-0. Purchase a Hardware Wallet from <a href="https://www.ledger.com/" target="_blank"> Ledger
-1. For ultimate safety I reccomend the backup pack which gives your 2 Ledger Wallets <a href="https://shop.ledger.com/products/ledger-      backup-pack/" target="_blank"> Ledger Back up pack 1 x Ledger Nano S ( Keep in your Safe ) 1 x Ledger Nanao X ( this is for everyday transactions and trading )
-2. Have a read of the hacks timeline to see why keeping your bitcoin and assets on exchanges like CoinSpot is a bad idea due to hacks      etc...  <a href="https://www.ledger.com/academy/crypto/hacks-timeline/" target="_blank"> Hacks TimeLine.
-3. Learn how to use the Hardware Wallet   <a href="https://www.ledger.com/start/" target="_blank"> Ledger Start
+0. Purchase a Hardware Wallet from <a href="https://www.ledger.com/" target="_blank"> Ledger </a>
+1. For ultimate safety I reccomend the backup pack which gives your 2 Ledger Wallets <a href="https://shop.ledger.com/products/ledger-      backup-pack/" target="_blank"></a> The Ledger Back up pack gives you  1 x Ledger Nano S ( Keep this in your Safe ) 1 x Ledger Nanao X ( Use this for everyday transactions and trading )
+2. Have a read of the hacks timeline to see why keeping your bitcoin and assets on exchanges like CoinSpot is a bad idea due to hacks      etc...  <a href="https://www.ledger.com/academy/crypto/hacks-timeline/" target="_blank"> Hacks TimeLine.</a>
+3. Learn how to use the Hardware Wallet   <a href="https://www.ledger.com/start/" target="_blank"> Ledger Start</a>
 
 -----
 ##### Extra Reading and education on what Bitcoin is and how it works.
