@@ -50,7 +50,7 @@
 4.	Wait for the funds to appear in Atomic wallet.
 
 ##### Amber
-1.  Downloan the Amber App onto your iPhone <a href="https://apps.apple.com/au/app/amber/id1410639317" target="_blank">Amber App download</a>
+1.  Download the Amber App onto your iPhone <a href="https://apps.apple.com/au/app/amber/id1410639317" target="_blank">Amber App download</a>
 2.	Sign up using your email.
 3.  Make an account & connect your Bank Account
 4.	Press buy after your account is set up to purchase bitcoin.
