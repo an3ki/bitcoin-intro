@@ -69,7 +69,9 @@
 
 Congrats you now officially hold some BTC. As long as you keep those 24 words safe nobody can steal the funds from the wallet you have created. Without these words (known as your seed words or your private key) nobody can access your Atomic bitcoin wallet.
 
-##### Step 3. Extra Safety for Long Term Investment. Buying and using a Hardware Wallet.
+## Step 3. Buy a Hardware Wallet
+
+##### Extra Safety for Long Term Investment. Buying and using a Hardware Wallet.
 
 0. Purchase a Hardware Wallet from <a href="https://www.ledger.com/" target="_blank"> Ledger </a>
 1. For ultimate safety I reccomend the backup pack which gives your 2 Ledger Wallets <a href="https://shop.ledger.com/products/ledger-      backup-pack/" target="_blank"></a> The Ledger Back up pack gives you  1 x Ledger Nano S ( Keep this in your Safe ) 1 x Ledger Nanao X ( Use this for everyday transactions and trading )
