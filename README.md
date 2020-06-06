@@ -45,11 +45,13 @@
 
 
 ##### CoinSpot
-0.  Singn up to <a href="https://www.coinspot.com.au/" target="_blank">Coin Spot</a>
-1.	Make an account & connect a Debit Card.
-2.	Buy 25 USD of BTC.
-3.	Find the Withdraw Bitcoin button, specify an amount and paste your first bitcoin address from Step 1.
-4.	Wait for the funds to appear in Atomic wallet.
+0.  Signup up to <a href="https://www.coinspot.com.au/" target="_blank">Coin Spot</a>
+1.	Make an account & send some money from your Bank Account (Click on Dashboard then all deposit options).
+2.	Click on Buy/Sell then Buy BTC / Buy 25 AUD of BTC.
+3.	Withdraw your BTC click wallets type "BTC" in the search bar then click "Open BTC Wallet"
+4.  Click Send Bitcoin
+5.  Enter the amount of BTC you wish to send and paste in the wallet address for BTC you have from Step 1 in the Atomic wallet.
+6.	Wait for the funds to appear in Atomic wallet.
 
 ##### Amber
 1.  Download the Amber App onto your iPhone <a href="https://apps.apple.com/au/app/amber/id1410639317" target="_blank">Amber App download</a>
